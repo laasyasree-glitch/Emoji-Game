@@ -1,0 +1,18 @@
+/* Write your code here. */
+.card {
+  list-style-type: none;
+  background-color: #c6caf5;
+  margin: 2%;
+  padding: 2%;
+  border-radius: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+img {
+  width: 70%;
+}
+button {
+  background-color: #c6caf5;
+  border: 0px;
+}
